@@ -6,7 +6,7 @@ int main(){
 
     volume = (4.0/3) * pi * (raio * raio * raio);
 
-    printf("VOLUME = %.3lf", volume);
+    printf("VOLUME = %.3lf\n", volume);
 
     return 0;
 
